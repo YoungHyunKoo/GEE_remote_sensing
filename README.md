@@ -10,7 +10,7 @@ This course consists of 5-week materials.
 4) Week 4: Image classification - Learn how to perform supervised and unsupervised image classification via GEE
 5) Week 5: Machine learning - Implement a simple machine learning tool for GEE
 
-![alt text]([https://earthengine.google.com/static/images/150dpi/Algorithm_150dpi.png](https://developers.google.com/static/earth-engine/images/datasets/gifs/nasa_nex_07_2018.gif))
+![alt text]([[https://earthengine.google.com/static/images/150dpi/Algorithm_150dpi.png](https://developers.google.com/static/earth-engine/images/datasets/gifs/nasa_nex_07_2018.gif](https://developers.google.com/static/earth-engine/images/datasets/copernicus_s2_sr_1280_960.jpg)))
 
 Credit: Younghyun Koo (kooala317@gmail.com)
 
